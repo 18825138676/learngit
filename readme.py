@@ -1,2 +1,2 @@
-print('Git is a version control system')
-print('Git is a free softwart')
+print('Git is a distributed version control system')
+print('Git is free software')
